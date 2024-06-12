@@ -18,6 +18,7 @@ export const PostComp = () => {
     const {colors} = useTheme();
 
     return (
+
         <View>
 
             {/* Header */}
@@ -77,6 +78,7 @@ export const PostComp = () => {
 
 
         </View>
+        
     )
 }
 
